@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "873220363563",
+    "firebase_url": "https://appconbd-e5eca-default-rtdb.firebaseio.com",
+    "project_id": "appconbd-e5eca",
+    "storage_bucket": "appconbd-e5eca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873220363563:android:b6c33c8d08875eb2de616e",
+        "android_client_info": {
+          "package_name": "com.example.appconbd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbc70j8V-12xC927ORkf0bQFQyenmmuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
